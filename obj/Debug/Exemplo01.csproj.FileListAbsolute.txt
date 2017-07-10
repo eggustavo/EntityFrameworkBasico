@@ -1,0 +1,10 @@
+C:\Eduardo\Treinamento\EM3\Exemplo01\Exemplo01\Exemplo01\bin\Debug\Exemplo01.exe.config
+C:\Eduardo\Treinamento\EM3\Exemplo01\Exemplo01\Exemplo01\bin\Debug\Exemplo01.exe
+C:\Eduardo\Treinamento\EM3\Exemplo01\Exemplo01\Exemplo01\bin\Debug\Exemplo01.pdb
+C:\Eduardo\Treinamento\EM3\Exemplo01\Exemplo01\Exemplo01\bin\Debug\EntityFramework.dll
+C:\Eduardo\Treinamento\EM3\Exemplo01\Exemplo01\Exemplo01\bin\Debug\EntityFramework.SqlServer.dll
+C:\Eduardo\Treinamento\EM3\Exemplo01\Exemplo01\Exemplo01\bin\Debug\EntityFramework.xml
+C:\Eduardo\Treinamento\EM3\Exemplo01\Exemplo01\Exemplo01\bin\Debug\EntityFramework.SqlServer.xml
+C:\Eduardo\Treinamento\EM3\Exemplo01\Exemplo01\Exemplo01\obj\Debug\Exemplo01.csprojResolveAssemblyReference.cache
+C:\Eduardo\Treinamento\EM3\Exemplo01\Exemplo01\Exemplo01\obj\Debug\Exemplo01.exe
+C:\Eduardo\Treinamento\EM3\Exemplo01\Exemplo01\Exemplo01\obj\Debug\Exemplo01.pdb
